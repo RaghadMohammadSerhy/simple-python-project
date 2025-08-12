@@ -10,5 +10,5 @@ A simple Python program that greets the user by name.
 4. Uploaded the code to GitHub.
 
 ## How to Run:
-```bash
+
 python hello.py
